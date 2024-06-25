@@ -1,0 +1,6 @@
+# Ignore build and dist directories
+build/
+dist/
+
+# Ignore hosts.json file
+hosts.json
